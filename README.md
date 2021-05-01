@@ -18,7 +18,7 @@ To use these files follow these steps:
     2. Create a local clone of your fork 
 From here you want to create you database, update your .env file, run npm i, then npm start. Using a tool like insomnia, you are able to get, post, put, and delete data in your database. 
 
-Check out this video on how to use this application:
+Check out this video on how to use this application: https://drive.google.com/file/d/1uyuWOGoAb7eGBT000E34h0AKnZaqQElJ/view?usp=sharing
 
 
 
