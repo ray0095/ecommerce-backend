@@ -1,7 +1,7 @@
 # Ecommerce Back-end
 
 ## Description 
-The following files contain the necessary assets to deploy a functional random password generator. Using HTML, CSS, and JavaScript, the site allows users to choose a password length between 8 and 128 characters and select whether or not they'd like the password to include uppercase, lowercase, numbers, and/or special characters. 
+The following files contain the necessary assets to deploy a functional e-commerce back end environment where users can ceate new, edit existing or delete products, departments, and tags from their e-commerce business. This app requires some database setup before use. 
 
 
 ## Table of Contents
